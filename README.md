@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Iv
 
-🎓 CS @ Northeastern University, class of 2028
+## 🎓 CS @ Northeastern University, class of 2028
 
 Welcome to my corner of GitHub!
 I use this space to explore ideas, build small projects, and learn by doing — from robotics control systems to machine learning experiments, and everything in between.  
