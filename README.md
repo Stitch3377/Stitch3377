@@ -1,16 +1,14 @@
-## Hi there 👋
+#👋 Hey, I’m Iv
 
-<!--
-**Stitch3377/Stitch3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ Northeastern University, class of 2028
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub!
+I use this space to explore ideas, build small projects, and learn by doing — from robotics control systems to machine learning experiments, and everything in between.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Interested In
+- **Robotics & Autonomous Systems** – control, perception, and making machines move with purpose.  
+- **Machine Learning & AI** – tinkering with models (vision, language, generative).  
+- **Creative Tech** – art-meets-code experiments (image generation, interactive apps).  
+- **Software Design** – building clean, maintainable systems that actually work.
