@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Iv
+# 🐢 Hello, I’m Iv
 
 ## 🎓 CS @ Northeastern University, Class of 2028
 
